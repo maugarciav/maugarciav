@@ -51,11 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maugarciav&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maugarciav&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
