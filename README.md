@@ -49,11 +49,11 @@
 </div>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maugarciav&show_icons=true&theme=dark&locale=en" alt="maugarciav" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=maugarciav&show_icons=true&theme=dark&locale=en" alt="maugarciav" /></p>
 <br><br><br><br>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maugarciav&show_icons=true&theme=dark&locale=en&layout=compact" alt="maugarciav" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maugarciav&show_icons=true&theme=dark&locale=en&layout=compact" alt="maugarciav" /></p>
 
 
 <!--horizontal divider(gradiant)-->
