@@ -56,6 +56,23 @@
     </a>
 </p>
 
+
+
+<p align="center">
+    <img
+        src="https://komarev.com/ghpvc/?username=maugarciav&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Profile views" />
+</p>
+
+<p style="margin-bottom: 20px;" align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+        <img
+            style="display:block;"
+            src="https://github-profile-trophy.vercel.app/?username=maugarciav&theme=nord&margin-w=35"
+            alt="maugarciav" />
+    </a>
+</p>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
