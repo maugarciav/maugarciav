@@ -57,12 +57,13 @@
 </p>
 
 
-
+<!--  
 <p align="center">
     <img
         src="https://komarev.com/ghpvc/?username=maugarciav&label=Profile%20views&color=0e75b6&style=flat"
         alt="Profile views" />
 </p>
+  -->
 
 <p style="margin-bottom: 20px;" align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
