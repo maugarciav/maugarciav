@@ -51,19 +51,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maugarciav&show_icons=true&theme=dark&locale=en&layout=compact" alt="maugarciav" /></p>
 
-
-
-<br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maugarciav&show_icons=true&theme=dark&locale=en" alt="maugarciav" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maugarciav&theme=dark" alt="maugarciav" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
+<br><br><br><br>
 
 
 <!--horizontal divider(gradiant)-->
